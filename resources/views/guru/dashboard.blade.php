@@ -23,7 +23,7 @@
     <div class="grid grid-cols-3 gap-4">
         <a href="{{ route('guru.kelas') }}" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-4 rounded text-center">Kelas Saya</a>
         <a href="{{ route('guru.tugas') }}" class="bg-green-500 hover:bg-green-700 text-white font-bold py-3 px-4 rounded text-center">Kelola Tugas</a>
-        <a href="{{ route('guru.submission') }}" class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-3 px-4 rounded text-center">Submission & Nilai</a>
+        <a href="{{ route('guru.submissions') }}" class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-3 px-4 rounded text-center">Submission & Nilai</a>
     </div>
 </div>
 
